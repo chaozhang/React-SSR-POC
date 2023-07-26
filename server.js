@@ -36,5 +36,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.info(`==> 🌎  Listening on port ${port}. Open up http://localhost:${port}/ in your browser.`);
+  console.info(`==>  Listening on port ${port}. Open up http://localhost:${port}/ in your browser.`);
 });
